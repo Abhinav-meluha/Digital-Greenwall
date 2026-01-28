@@ -37,7 +37,8 @@ These insights directly influenced the design, feature selection, and interactio
 ### 1️ Daily Eco-Challenges
 Small, achievable daily eco-tasks such as watering plants, avoiding plastic, or observing local biodiversity. Challenges are categorized into easy, medium, and hard levels to ensure inclusivity and sustained motivation.
 
- Screenshot: `<img width="285" height="681" alt="daily challenges" src="https://github.com/user-attachments/assets/e4dcf068-3c2f-4d42-a4dc-ad8d450379dc" />
+ Screenshot: `<img width="285" height="681" alt="daily challenges" src="https://github.com/user-attachments/assets/7a6185de-4b85-4568-a747-6206ef72b58f" />
+
 `
 
 ---
@@ -45,7 +46,8 @@ Small, achievable daily eco-tasks such as watering plants, avoiding plastic, or 
 ### 2️ Eco-Avatar Growth System
 Each user is represented by a plant-based eco-avatar that grows from a seed into a sapling, tree, and eventually a green wall. Avatar growth is directly linked to eco-points earned through task completion, visually reinforcing positive behavior.
 
- Screenshot: `<img width="284" height="679" alt="eco avatar" src="https://github.com/user-attachments/assets/19e6d772-f00d-4ac0-804d-245470d811e4" />
+ Screenshot: `<img width="284" height="679" alt="eco avatar" src="https://github.com/user-attachments/assets/1b0cb856-75d1-4417-bec0-1d837ec4d979" />
+
 `
 
 ---
@@ -53,7 +55,8 @@ Each user is represented by a plant-based eco-avatar that grows from a seed into
 ### 3️ AR Nature Viewer (Simulated)
 A simulated augmented reality feature that visualizes virtual plant growth within the user’s environment. This strengthens emotional connection with nature while keeping the prototype technically feasible.
 
- Screenshot: `<img width="492" height="779" alt="ar simulation 1" src="https://github.com/user-attachments/assets/a7fd1136-69e9-4cf8-a2fe-93bb742fa3f5"/<img width="482" height="410" alt="ar simulation 2" src="https://github.com/user-attachments/assets/a9f5cff6-a22b-438d-a9ac-78043a95b3e4" />
+ Screenshot: `<img width="492" height="779" alt="ar simulation 1" src="https://github.com/user-attachments/assets/e58b8790-1efa-470c-96c1-2f608a55c7f6" />
+<img width="482" height="410" alt="ar simulation 2" src="https://github.com/user-attachments/assets/a9f5cff6-a22b-438d-a9ac-78043a95b3e4" />
 >
 `
 
@@ -62,7 +65,8 @@ A simulated augmented reality feature that visualizes virtual plant growth withi
 ### 4️ Team Missions & Leaderboard
 Students collaborate in teams to complete weekly eco-missions. The leaderboard emphasizes collective progress and motivational messages instead of individual ranking to reduce pressure and anxiety.
 
- Screenshot: `<img width="281" height="678" alt="team leaderboard" src="https://github.com/user-attachments/assets/ad6c0f68-0ed1-4203-9b13-a67487dc2bdd" />
+ Screenshot: `<img width="281" height="678" alt="team leaderboard" src="https://github.com/user-attachments/assets/b5abc170-6640-4c03-a51f-5f53e8f4e5ad" />
+
 `
 
 ---
@@ -70,7 +74,8 @@ Students collaborate in teams to complete weekly eco-missions. The leaderboard e
 ### 5️ Rewards & Recognition
 Users unlock badges, avatars, and eco-themed rewards as they maintain streaks and complete challenges. Locked and unlocked states encourage long-term engagement and consistency.
 
- Screenshot: `<img width="282" height="677" alt="rewards" src="https://github.com/user-attachments/assets/cbdcb0d1-475b-4cd5-a9f3-bd69afe3b5dd" />
+ Screenshot: `<img width="282" height="677" alt="rewards" src="https://github.com/user-attachments/assets/12af6470-6aae-45d2-993b-dde44778939d" />
+
 `
 
 ---
