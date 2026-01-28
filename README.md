@@ -134,9 +134,7 @@ The prototype was tested with three peer users.
 
 ##  Prototype Link
  **Figma Prototype:**  
-[_Paste your Figma prototype link here_](https://www.figma.com/make/9MupzQ5X7WsCoclpadQiq6/Digital-GreenWall-Prototype?t=ht9Kq4eXtsFONBGI-20&fullscreen=1)
-
----
+https://www.figma.com/make/9MupzQ5X7WsCoclpadQiq6/Digital-GreenWall-Prototype?t=ht9Kq4eXtsFONBGI-20&fullscreen=1
 
 ##  Future Enhancements
 - Real-time AR integration
